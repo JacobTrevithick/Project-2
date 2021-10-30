@@ -1,0 +1,19 @@
+user_info
+-----
+username TEXT PK
+watch_time INT
+stream_time INT
+peak_viewers INT
+avg_viewers INT
+followers INT
+followers_gained INT
+views_gained INT
+parterned TEXT
+mature TEXT
+language TEXT
+
+earnings
+-----
+username TEXT FK >- user_info.username
+user_id INT
+gross_earnings FLOAT
