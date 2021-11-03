@@ -43,6 +43,10 @@ An earnings table can be used to view user_id, username, and gross_earnings. The
 
 A user_stats table can be used to view user_id, watch_time, stream_time, peak_viewers, avg_viewers, followers, followers_gained, and views_gained. The data that populates this table originates from the user_info_stats_df created during the cleaning process.
 
+/SQL_Schema/Database_diagram.png
+
+Figure 1: Relational PostgreSQL Database Diagram.
+
 **Final Use:**
 
 The final database created to store the data cleaned during the project process, including the tables produced, can ultimately be utilized to analyze, and generate insights, to assist in the launch of our Gaming Clothing & Accessory company. The three tables loaded, user_info, earnings, and user_stats, can all be joined in one method or another to view and generate statistics to better make decisions surrounding how to best launch our company. We are now able to view not only top ranked streamers, but a combination of additional data that may influence how to go about marketing our Gaming Clothing & Accessory company that will be influenced by what streamers may have larger audiences or differing metrics surrounding Twitch streamers.
