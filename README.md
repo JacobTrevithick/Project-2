@@ -13,7 +13,7 @@ Our project motivation derived from a marketing strategy to utilize top Twitch s
 
 **Data:**
 
-Dataset 1 - https://www.kaggle.com/aayushmihra1512/twitchdata
+Dataset 1 - https://www.kaggle.com/aayushmishra1512/twitchdata
 
 Dataset 2 - https://web.archive.org/web/20211006143529/https://pastebin.com/LjmaPNam
 
