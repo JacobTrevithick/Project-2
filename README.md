@@ -47,6 +47,8 @@ A user_stats table can be used to view user_id, watch_time, stream_time, peak_vi
 
 Figure 1: Relational PostgreSQL Database Diagram.
 
+To securely run the code, a config file was included within the engine created to access the PostgreSQL connection to anyone running the code within their local repository. The config file will include the user’s personal postgres username and password. SQLAlchemy was used in the final step of the project to upload the table information from PostgreSQL.
+
 **Final Use:**
 
 The final database created to store the data cleaned during the project process, including the tables produced, can ultimately be utilized to analyze, and generate insights, to assist in the launch of our Gaming Clothing & Accessory company. The three tables loaded, user_info, earnings, and user_stats, can all be joined in one method or another to view and generate statistics to better make decisions surrounding how to best launch our company. We are now able to view not only top ranked streamers, but a combination of additional data that may influence how to go about marketing our Gaming Clothing & Accessory company that will be influenced by what streamers may have larger audiences or differing metrics surrounding Twitch streamers.
