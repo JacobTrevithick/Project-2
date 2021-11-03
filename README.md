@@ -43,7 +43,7 @@ An earnings table can be used to view user_id, username, and gross_earnings. The
 
 A user_stats table can be used to view user_id, watch_time, stream_time, peak_viewers, avg_viewers, followers, followers_gained, and views_gained. The data that populates this table originates from the user_info_stats_df created during the cleaning process.
 
-/SQL_Schema/Database_diagram.png
+https://github.com/JacobTrevithick/Project-2/blob/main/SQL_Schema/Database_diagram.png
 
 Figure 1: Relational PostgreSQL Database Diagram.
 
